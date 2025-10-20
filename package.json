@@ -1,0 +1,34 @@
+{
+  "name": "missoes-do-dia-potiguar",
+  "version": "1.0.0",
+  "description": "Aplicativo de Missões Diárias para clientes de marketing.",
+  "main": "MissionsApp.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "firebase",
+    "tailwind",
+    "productivity"
+  ],
+  "author": "Potiguar Creativa",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "11.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "vite": "^5.0.0"
+  }
+}
